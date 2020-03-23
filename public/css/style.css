@@ -1,0 +1,22 @@
+body{
+    background-color: coral;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+    color: white;
+}
+
+.header{
+      padding: 13px;
+      text-align: center;
+      background: orange;
+      color: white;
+      font-size: 30px;
+      margin-bottom: 20px;
+}
+
+img{
+    border: 2px solid orange;
+}
